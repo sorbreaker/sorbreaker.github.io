@@ -19,7 +19,7 @@ after_script:
   - git config user.email "sorbreaker@sina.com"
   - git add .
   - git commit -m "Update docs"
-  - git push --force --quiet "https://${travis-ci}@${GH_REF}" master:gh-pages
+  - git push --force --quiet "https://${travis-ci}@${GH_REF}" gh-pages:master
 # E: Build LifeCycle
 
 branches:
