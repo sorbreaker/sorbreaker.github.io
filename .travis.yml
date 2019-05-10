@@ -1,30 +1,27 @@
-language: node_js
-node_js: stable
-
-# S: Build Lifecycle
+language: node_js # 设置语言
+node_js: stable # 设置相应版本
+cache:
+    apt: true
+    directories:
+        - node_modules # 缓存不经常更改的内容
 install:
-  - npm install
-
-
-#before_script:
- # - npm install -g gulp
-
-script:
-  - hexo g
-
+    - npm install # 安装hexo及插件
+    - npm rebuild node-sass --force #该命令是根据构建失败的日志提示添加的
+before_install:
+    - export TZ='Asia/Shanghai' # 更改时区
+    - npm install hexo-cli -g  # 安装hexo环境
+    - chmod +x ./publish-to-gh-pages.sh  # 为shell文件添加可执行权限
 after_script:
-  - cd ./public
-  - git init
-  - git config user.name "sorbreaker"
-  - git config user.email "sorbreaker@sina.com"
-  - git add .
-  - git commit -m "Update docs"
-  - git push --force --quiet "https://${travis-ci}@${GH_REF}" gh-pages:master
-# E: Build LifeCycle
-
+    - ./publish-to-gh-pages.sh
+script:
+    - hexo clean # 清除
+    - hexo g # 生成
 branches:
-  only:
-    - hexo1
+    only:
+        - hexo # 只监测hexo分支
 env:
- global:
-   - GH_REF: github.com/sorbreaker/sorbreaker.github.io.git
+    global:
+        # Github Pages
+        - GH_REF: github.com/sorbreaker/sorbreaker.github.io.git #设置GH_REF，注意更改成自己的仓库地址
+        # Coding Pages https://git.coding.net/sorbreaker/sorbreaker.git
+        - CO_REF: git.coding.net/sorbreaker/sorbreaker.git
