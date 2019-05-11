@@ -15,12 +15,12 @@ script:
 after_script:
   - cd ./public
   - git init
-  - git config user.name "sorbreaker"
-  - git config user.email "sorbreaker@sina.com"
+  - git config --global user.name "sorbreaker"
+  - git config --global user.email "sorbreaker@sina.com"
   - git add .
   - git commit -m "TravisCI 自动部署"
   # Github Pages
-  - git push --force --quiet "https://${travisgithub}@${GH_REF}" master:gh-pages
+  - git push --force --quiet "https://${travisgithub}@${GH_REF}" master:master
   # Coding Pages
   # - git push --force --quiet "https://sorbreaker:${traviscoding}@${CO_REF}" master:master
 
