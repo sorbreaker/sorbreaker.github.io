@@ -80,6 +80,6 @@ theme: hiero
 deploy:
   type: git
   repo: 
-    github: https://github.com/sorbreaker/sorbreaker.git
+    github: https://travisgithub@github.com/sorbreaker/sorbreaker.github.io.git
     coding: git@git.dev.tencent.com:sorbreaker/sorbreaker.git
    
