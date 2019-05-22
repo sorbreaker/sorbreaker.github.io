@@ -44,4 +44,26 @@
     
   </entry>
   
+  <entry>
+    <title>这是一场梦境</title>
+    <link href="http://paperborn.com//articles/%E6%A8%A1%E6%9D%BF.html"/>
+    <id>http://paperborn.com//articles/模板.html</id>
+    <published>1970-01-01T05:36:30.512Z</published>
+    <updated>2019-05-12T13:27:26.028Z</updated>
+    
+    <content type="html"><![CDATA[<p>中文测试</p><a id="more"></a><h3 id="这是一场梦境"><a href="#这是一场梦境" class="headerlink" title="这是一场梦境"></a>这是一场梦境</h3><h2 id="我始终觉得有人在骗我"><a href="#我始终觉得有人在骗我" class="headerlink" title="我始终觉得有人在骗我"></a>我始终觉得有人在骗我</h2><h4 id="但又说不出缘由是什么"><a href="#但又说不出缘由是什么" class="headerlink" title="但又说不出缘由是什么"></a>但又说不出缘由是什么</h4><p><em>暗室逢灯</em></p><p>却悠久漫长</p>]]></content>
+    
+    <summary type="html">
+    
+      这是一场梦境
+    
+    </summary>
+    
+      <category term="poet" scheme="http://paperborn.com/categories/poet/"/>
+    
+    
+      <category term="poet" scheme="http://paperborn.com/tags/poet/"/>
+    
+  </entry>
+  
 </feed>
