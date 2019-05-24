@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://paperborn.com/"/>
+  <link href="http://www.paperborn.com/"/>
   <updated>2018-01-26T06:41:06.000Z</updated>
-  <id>http://paperborn.com/</id>
+  <id>http://www.paperborn.com/</id>
   
   <author>
     <name>sorbreaker</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Being Outside in Fresh Air &amp; How Your Body Loves It</title>
-    <link href="http://paperborn.com//articles/Being-Outside-in-Fresh-Air-and-How-Your-Body-Loves-It.html"/>
-    <id>http://paperborn.com//articles/Being-Outside-in-Fresh-Air-and-How-Your-Body-Loves-It.html</id>
+    <link href="http://www.paperborn.com//articles/Being-Outside-in-Fresh-Air-and-How-Your-Body-Loves-It.html"/>
+    <id>http://www.paperborn.com//articles/Being-Outside-in-Fresh-Air-and-How-Your-Body-Loves-It.html</id>
     <published>2016-11-20T13:55:38.000Z</published>
     <updated>2018-01-26T06:41:06.000Z</updated>
     
@@ -33,21 +33,21 @@
     
     </summary>
     
-      <category term="lifeStyle" scheme="http://paperborn.com/categories/lifeStyle/"/>
+      <category term="lifeStyle" scheme="http://www.paperborn.com/categories/lifeStyle/"/>
     
-      <category term="markup" scheme="http://paperborn.com/categories/lifeStyle/markup/"/>
+      <category term="markup" scheme="http://www.paperborn.com/categories/lifeStyle/markup/"/>
     
     
-      <category term="sticky" scheme="http://paperborn.com/tags/sticky/"/>
+      <category term="sticky" scheme="http://www.paperborn.com/tags/sticky/"/>
     
-      <category term="template" scheme="http://paperborn.com/tags/template/"/>
+      <category term="template" scheme="http://www.paperborn.com/tags/template/"/>
     
   </entry>
   
   <entry>
     <title>这是一场梦境</title>
-    <link href="http://paperborn.com//articles/%E6%A8%A1%E6%9D%BF.html"/>
-    <id>http://paperborn.com//articles/模板.html</id>
+    <link href="http://www.paperborn.com//articles/%E6%A8%A1%E6%9D%BF.html"/>
+    <id>http://www.paperborn.com//articles/模板.html</id>
     <published>1970-01-01T05:36:30.512Z</published>
     <updated>2019-05-24T11:15:12.832Z</updated>
     
@@ -59,10 +59,10 @@
     
     </summary>
     
-      <category term="poet" scheme="http://paperborn.com/categories/poet/"/>
+      <category term="poet" scheme="http://www.paperborn.com/categories/poet/"/>
     
     
-      <category term="poet" scheme="http://paperborn.com/tags/poet/"/>
+      <category term="poet" scheme="http://www.paperborn.com/tags/poet/"/>
     
   </entry>
   
