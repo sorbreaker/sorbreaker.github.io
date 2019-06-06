@@ -36,4 +36,10 @@ after_script:
   - sed -i "s/travisgithub/${travisgithub}/g" ./_config.yml
   - hexo deploy
 # End: Build LifeCycle
+env:
+ global:
+   # Github Pages
+   - GH_REF: https://travisgithub@github.com/sorbreaker/sorbreaker.github.io.git  这里替换你的github仓库地址
+   # Coding Pages
+   - CO_REF: git@git.dev.tencent.com:sorbreaker/sorbreaker.git  这里替换你的coding仓库地址
 --------------------- 
