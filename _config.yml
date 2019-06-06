@@ -81,5 +81,5 @@ deploy:
   type: git
   repo: 
     github: https://gh_token@github.com/sorbreaker/sorbreaker.github.io.git
-    coding: gh_token@git.dev.tencent.com:sorbreaker/sorbreaker.git
+    coding: git@git.dev.tencent.com:sorbreaker/sorbreaker.git
    
