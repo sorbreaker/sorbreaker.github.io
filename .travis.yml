@@ -19,7 +19,7 @@ after_script:
   - git add .
   - git commit -m "TravisCI 自动部署"
   # Github Pages
-  - git push --force --quiet "https://${travisgithub}@${GH_REF}" master:gh-pages 
+  - git push --force --quiet "https://${travisgithub}@${GH_REF}" hexo1:gh-pages 
   # Coding Pages
   - git push --force --quiet "https://sorbreaker:${traviscoding}.${CO_REF}" master:master
 
