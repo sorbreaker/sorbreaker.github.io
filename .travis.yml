@@ -25,7 +25,7 @@ after_script:
 
 branches:
   only:
-  - ihexo1   这里替换你要监听的分支
+  - hexo1   这里替换你要监听的分支
 
 env:
  global:
