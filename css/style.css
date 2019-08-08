@@ -466,6 +466,7 @@ body {
 }
 .article-title {
   text-decoration: none;
+  font-family: Helvetica;
   font-weight: bold;
   color: #555;
   line-height: 1.1em;
@@ -1585,6 +1586,7 @@ pre .javascript .function {
   margin: 30px 0;
 }
 .widget-title {
+  font-family: Helvetica;
   letter-spacing: 0px;
   color: #222;
 }
@@ -1633,12 +1635,13 @@ pre .javascript .function {
   line-height: 1.2;
   color: #222;
   font-weight: 700;
-  font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
+  font-family: Helvetica;
 }
 .widget_athemes_tabs .widget ul li a:hover {
   color: #ff2828;
 }
 .widget {
+  font-family: Helvetica;
   line-height: 1.6em;
   word-wrap: break-word;
   font-size: 0.9em;
