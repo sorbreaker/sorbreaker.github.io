@@ -123,6 +123,7 @@ body {
 }
 body {
   background: #fff;
+  font-family: "微软雅黑";
   font: 14px Arial, Helvetica, sans-serif, "Hiragino Sans GB", "Hiragino Sans GB W3", Microsoft JhengHei;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizelegibility;
