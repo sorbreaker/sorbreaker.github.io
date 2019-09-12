@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.paperborn.com/"/>
-  <updated>2019-09-09T15:18:13.395Z</updated>
+  <updated>2019-09-12T15:30:53.051Z</updated>
   <id>http://www.paperborn.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Amazon’s crowdsourced Q&amp;A community Alexa Answers goes live for all</title>
+    <link href="http://www.paperborn.com/Amazon%E2%80%99s%20crowdsourced%20Q&amp;A%20community%20Alexa%20Answers%20goes%20live%20for%20all.html"/>
+    <id>http://www.paperborn.com/Amazon’s crowdsourced Q&amp;A community Alexa Answers goes live for all.html</id>
+    <published>2019-09-11T16:00:00.000Z</published>
+    <updated>2019-09-12T15:30:53.051Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文地址：<a href="https://techcrunch.com/2019/09/12/amazons-crowdsourced-qa-community-alexa-answers-goes-live-for-all/" target="_blank" rel="noopener">https://techcrunch.com/2019/09/12/amazons-crowdsourced-qa-community-alexa-answers-goes-live-for-all/</a></p><p>这和国内字节跳动进入搜索引擎领域拓展自己的使用场景以打破产品间的信息孤岛的做法如出一辙，亚马逊通过智能音箱抢占更多新的信息入口，然后通过为客户提供更加广泛的有效信息增加客户的粘性，抢夺客户心智。随着智能终端的发展，手机和电脑也许不再像现在那样占据人们的大部分时间，因为届时将会有更多的信息入口，这也是为什么谷歌和亚马逊之间的火药味越来越重的原因，战术的勤奋不能挽救战略的懒惰带来的失利局势，未来鹿死谁手，我们拭目以待。</p><h3 id="摘抄"><a href="#摘抄" class="headerlink" title="摘抄"></a>摘抄</h3><p>In December, <a href="https://techcrunch.com/2018/12/06/amazon-is-crowdsourcing-alexas-answers-to-tough-questions/" target="_blank" rel="noopener">Amazon launched a crowdsourced Q&amp;A platform</a> into beta with the goal of improving Alexa’s ability to answer questions. That feature, Alexa Answers, is now live to all. Amazon says the feature was well-received by the early community of invite-only participants, who have since contributed hundreds of thousands of answers that have been shared with Alexa customers millions of times.</p><p>To differentiate these answers from other Alexa responses, they’re attributed to “an Amazon customer.”</p><p>As the company explained at launch, there are thousands of answers that had previously stumped Alexa, like <em>“Where was Barbara Bush buried?,” “Who wrote the score for Lord of the Rings?,” “What’s cork made out of?,”</em> and <em>“Where do bats go in the winter?”</em></p>]]></content>
+    
+    <summary type="html">
+    
+      Amazon’s crowdsourced Q&amp;A community Alexa Answers goes live for all
+    
+    </summary>
+    
+      <category term="亚马逊" scheme="http://www.paperborn.com/categories/%E4%BA%9A%E9%A9%AC%E9%80%8A/"/>
+    
+    
+      <category term="亚马逊" scheme="http://www.paperborn.com/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>比谈恋爱都上心：顾客全流程关怀体系</title>
@@ -428,28 +450,6 @@
     <summary type="html">
     
       Amazon Is Watching
-    
-    </summary>
-    
-      <category term="亚马逊" scheme="http://www.paperborn.com/categories/%E4%BA%9A%E9%A9%AC%E9%80%8A/"/>
-    
-    
-      <category term="亚马逊" scheme="http://www.paperborn.com/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Inside Amazon’s Fake Review Economy</title>
-    <link href="http://www.paperborn.com/Inside-Amazon%E2%80%99s-Fake-Review-Economy.html"/>
-    <id>http://www.paperborn.com/Inside-Amazon’s-Fake-Review-Economy.html</id>
-    <published>2019-08-05T16:00:00.000Z</published>
-    <updated>2019-08-07T13:40:32.931Z</updated>
-    
-    <content type="html"><![CDATA[<p>原文地址：<a href="https://www.buzzfeednews.com/article/nicolenguyen/amazon-fake-review-problem" target="_blank" rel="noopener">https://www.buzzfeednews.com/article/nicolenguyen/amazon-fake-review-problem</a></p><p>有电子商务的地方就有刷单刷评论，其实这是平台方把评论的作用放大了的结果。无论是正向的还是负向的作用来看，评论数和星数的诱导作用都过于强大，国内像京东淘宝等电商平台早已取消了星数的显示，把消费者的目光引导到产品，商家品牌本身上面。亚马逊只堵不疏的做法并非上策。</p><h3 id="摘抄"><a href="#摘抄" class="headerlink" title="摘抄"></a>摘抄</h3><p>Like entrepreneurs during the dot-com boom, people are rushing to sell on Amazon, and sites like AliExpress make it easy for anyone to acquire massive amounts of inventory. (AliExpress even runs its <a href="http://fulfillment.aliexpress.com/" target="_blank" rel="noopener">own fulfillment program</a>.) This rush — which includes acquiring positive reviews to rise to the top of Amazon’s search algorithms to sell off that inventory as quickly as possible — can displace sellers, who are less in tune with the velocity and inhumanity of the platform’s algorithms and how punishing they can be as a result.</p>]]></content>
-    
-    <summary type="html">
-    
-      Inside Amazon’s Fake Review Economy
     
     </summary>
     
