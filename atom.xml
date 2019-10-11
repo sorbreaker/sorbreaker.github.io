@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://paperborn.com/"/>
-  <updated>2019-10-07T15:24:41.217Z</updated>
+  <updated>2019-10-11T15:17:43.591Z</updated>
   <id>http://paperborn.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>贝索斯的决策方法论：当决策可逆时，当机立断</title>
+    <link href="http://paperborn.com/%E8%B4%9D%E7%B4%A2%E6%96%AF%E7%9A%84%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%9A%E5%BD%93%E5%86%B3%E7%AD%96%E5%8F%AF%E9%80%86%E6%97%B6%EF%BC%8C%E5%BD%93%E6%9C%BA%E7%AB%8B%E6%96%AD.html"/>
+    <id>http://paperborn.com/贝索斯的决策方法论：当决策可逆时，当机立断.html</id>
+    <published>2019-10-10T16:00:00.000Z</published>
+    <updated>2019-10-11T15:17:43.591Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文地址：<a href="https://www.tmtpost.com/4168263.html" target="_blank" rel="noopener">https://www.tmtpost.com/4168263.html</a></p><h3 id="摘抄"><a href="#摘抄" class="headerlink" title="摘抄"></a>摘抄</h3><p>如果决策是可逆的(reversible)，即使没有十全的信息，我们也要当机立断。如果决策是不可逆的(irreversible)，那么我们最好三思而后行，确保考虑足够充分的信息，并尽可能透彻地审视问题后再行动。</p><p>贝索斯利用这种启发法做了创立亚马逊的决策。他认识到，亚马逊就算失败了，他也能重回之前的岗位。他仍可以从失败中学到很多，并不会因此后悔。他敢于冒险，因为这项决策是可逆的。启发法很好地为他所用，并长期为他的决策提供指导。</p>]]></content>
+    
+    <summary type="html">
+    
+      贝索斯的决策方法论：当决策可逆时，当机立断
+    
+    </summary>
+    
+      <category term="电商" scheme="http://paperborn.com/categories/%E7%94%B5%E5%95%86/"/>
+    
+    
+      <category term="亚马逊" scheme="http://paperborn.com/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>1 Million Revenue, 0 Employees with an Amazon FBA While Traveling The World</title>
